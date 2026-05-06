@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/guti/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Guti](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Guti](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> কালো মেঘের আকাশ জুড়ে শুধু তোমার ছবি.. শুধু তোমার ছবি..
+> তুমি আমার রাতের আঁধার, তুমি আমার রবি
+> অচেনা এক নেশা এসে আমায় পাগল করে
+> তোমার ওই মায়ার জালে আমার হৃদয় পড়ে
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
