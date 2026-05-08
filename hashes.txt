@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Guti
+
+This log tracks the cryptographic history and versioning for the song **Guti** (guti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:13:35.168249 | `v1` | `a3e566af08f2be79c85aab68e796c74096bb1e3e82d51b1381d196fdb232a8a6` | `57b903779f548896303666ccde1ed54ada8ef5a6e0a614d9f15ad8b68c9dff5d` | `2026-05-08_guti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
